@@ -1,6 +1,8 @@
 # GitOps
 
 ![EP-1 _ GITOPS   ARGO CD CRASH COURSE _ WHAT IS GITOPS _ _#devops #argocd #gitops #kubernetes #cicd 0-5 screenshot](https://github.com/HimanshuMishra123/GitOps/assets/164254902/8a18a172-66f6-44c5-a9a1-800fa463e448)
+mtlb applications ke sath sath Infrastructure bhi deploy and monitor hoga.
+
 ![EP-1 _ GITOPS   ARGO CD CRASH COURSE _ WHAT IS GITOPS _ _#devops #argocd #gitops #kubernetes #cicd 9-10 screenshot](https://github.com/HimanshuMishra123/GitOps/assets/164254902/bed8b799-e0a4-4742-968e-d0d00d81fba0)
 Any CD tool can not be called a GitOps tool unless it follows all GitOps principles.<br />
 
