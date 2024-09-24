@@ -28,7 +28,7 @@ Argo CD's architecture consists of the following key components:
    Task Queues: Helps distribute and manage tasks efficiently.<br />
 6. **Kube API Server**: The Kubernetes API server that Argo CD interacts with to deploy and manage applications.
 
-Tese components work together to implement the GitOps workflow using Argo CD. For example:
+These components work together to implement the GitOps workflow using Argo CD. For example:
 
 1. Argo CD monitors the Git repository for any changes to the application manifests.
 2. When a change is detected, the Application Controller compares the desired state (from Git) with the live state (in the Kubernetes cluster).
